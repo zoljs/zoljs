@@ -16,7 +16,7 @@
 
 #### **Tools & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,git,linux,docker&perline=10" />
 </p>
 
 ---
