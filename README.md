@@ -23,7 +23,9 @@
 
 #### Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidjs,svelte,php,laravel&perline=10" />
+      <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=blazor,solidjs,svelte,php,laravel" />
+    </a>
 </p>
 
 ---
