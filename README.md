@@ -6,7 +6,7 @@
 
 #### **Programming Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,cs,cpp,js,ts&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,cs,cpp,js,ts,php,laravel&perline=10" />
 </p>
 
 #### **Frameworks & UI**
@@ -24,7 +24,7 @@
 #### Currently Learning
 <p align="left">
       <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=blazor,solidjs,svelte,php,laravel" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=blazor,svelte" />
     </a>
 </p>
 
